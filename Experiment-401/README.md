@@ -103,6 +103,9 @@ Interrupt received! , Count is 4
 ---
 
 # Output
+
+![alt text](<Screenshot (102).png>)
+
 ---
 
 # Result
